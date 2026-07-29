@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://offgrid0801-glitch.github.io/resources-hwgu96/sitemap.xml
